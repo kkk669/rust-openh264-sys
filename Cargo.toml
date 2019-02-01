@@ -20,7 +20,7 @@ static = []
 [build-dependencies]
 bindgen = "0"
 cc = "1"
-reqwest = "0.8"
+reqwest = "0.9"
 libflate = "0.1"
 tar = "0.4"
 glob = "0.2"
